@@ -26,6 +26,7 @@ Mikhail Kirs
 ## License 
 See lincense file 
 
+<<<<<<< HEAD
 ## Rabin's part
 My name is Rabin Tamang.'
 #### I live from Nepal, and there are few things that I love about it.
@@ -48,6 +49,4 @@ Open in a browser of your choice
 Rabin
 ## License 
 See lincense file
-
-
 
